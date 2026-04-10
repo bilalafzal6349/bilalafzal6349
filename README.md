@@ -73,7 +73,6 @@
 
 # 🏆 Achievements
 
-- 🎓 BS Artificial Intelligence Student at **Government College University Lahore**
 - 💻 Built **MERN Stack & Next.js applications**
 - 🚀 Developed modern **React + Tailwind landing pages**
 - 🤖 Built **Deep Learning projects using LSTM**
